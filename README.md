@@ -1,4 +1,4 @@
-# rxjavabook
+# RxJava Samples
 
 Modified code samples from Reactive Programming with RxJava
 
@@ -9,4 +9,5 @@ by Ben Christensen and Tomasz Nurkiewicz.
 All the original samples in the book are writen for RxJava 1, but the
 current latest version of RxJava is 2.
 
-
+Note that I haven't typed in and translated all the samples from the book,
+just most of the first 7 chapters.
