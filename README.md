@@ -11,3 +11,5 @@ current latest version of RxJava is 2.
 
 Note that I haven't typed in and translated all the samples from the book,
 just most of the first 7 chapters.
+
+I will list here some of the modifications for RxJava 2.
